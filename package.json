@@ -1,11 +1,25 @@
 {
   "name": "bangla-number-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple npm package to convert Western decimal numbers to Bengali decimal numbers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahrasel/bangla-number-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "bangla-number-converter",
+    "javascript"
+  ],
+  "author": "ahrasel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahrasel/bangla-number-converter/issues"
+  },
+  "homepage": "https://github.com/ahrasel/bangla-number-converter#readme"
 }
