@@ -2,6 +2,9 @@
 
 const banglaNumberConverter = {
   toBanglaNumber(number, isCommaSeparated = false) {
+    if (number === undefined) {
+      return "";
+    }
     const banglaNumber = {
       0: "০",
       1: "১",
