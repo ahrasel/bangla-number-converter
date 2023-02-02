@@ -1,6 +1,6 @@
 {
   "name": "bangla-number-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple npm package to convert Western decimal numbers to Bengali decimal numbers",
   "main": "index.js",
   "scripts": {
